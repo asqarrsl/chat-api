@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bionic-freehold-364616",
+  "private_key_id": "1932df9b35f17fa4a560551f4ad55d54961c13a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaQvthZq4OlhpH\nqGincPmSxqU86RGu/YAzNuLfepeDWTqh+Y+Y5zlgRIUeeMLMcdIh5Y6drDwSuDS4\n+NDq/VWs73Y5P5pfiyVRTU0XW+6WYUqv/ufcLzRbH67jPnFsdCZKmZalpj0s6NUl\nXQsmLXY8mfXEOWdNoldtoEVNB4EIINTnpowEQCMSo9SZBKV6MRBCsaWS+ArVXzRl\nXBv2r+6asdDmw7vsV8Eu2CYWlluF/fJxXp0PdwgrlLo5nI50OE8J49IuxGm0VID2\nTzbXAzkUuagqpimODk3P41SsBmQ93CL1z9MFlQv3lIUft8R09quljZIXPYnawKW6\nufo9iMtNAgMBAAECggEABOVHujGRaeZYBI90eX0BPBeUkT8xFFm/TGbIw/Z9+4Y+\n2G8+l1Foag5fZgWTaP6MlhIOFt9MIadcF2INXZf9GfntDu+sSMRYO/Cd8A4x1dGs\n2THAhaHRbNHTHGnEJYida0LyrBiEesNmNIZXv615X3acmqAm/wjLKTxVEZs/e60m\nOjMAXrE+wTEM2oMlKBJKnu9LwibaAmfkoA7l2JZR8eg85hSJ4BErnMT7lyBl/orc\nhXTfyqWMbWxb3fXBZlI+tktqVTiWoqB/DsAESk9djin4CbpKg3eA1pLwJ4d/Z7Ur\nnXIunQvZHkuXqFPM1/71EaWxNAgRddFNGTw43XcdCQKBgQD6bjdVaXatwfUZfunC\nRWFojBK02SS5lG2hF0a+2RAKBUSxoKQAHuA9eXYcNUgqXYLjWronjvfI4RSuGqAi\newJ3fAyaRZ1qyh1OczbXASyQiC2LAy5oAinbr/7Gejzj4CIwH3Oq6+U2T+y/65bZ\nIQsai+2H40tB6It7iTV3mkfa1wKBgQDfHZ4idOOtULduNDpKyaGPHm21nHZLHRX3\nn6smLJKQmp5wuHbQ8YIE8CRTs1T2euDs5lWGpuzGQwyJGt9GsSybNE46PO6Ypsv5\n3tvv+WzMgXwOlBRy33s0z3mALl1drLCplk7pMUpzaNZzXgTZ8seBq24VvrJIUHbV\ndplkCrPKewKBgFKnGcAo5LCIeVqG1qP1viaBRJNHr6VIZb5rLkBC59ZG0ttFR5t6\nlUv00JSSyVSiNFbRVOtFdmZoUyj7RKrcqn3BBW/NVh0uw+lmgU0I6Cpzp4Rf8msF\ne8c0GQRsx7f1+5KibsyUurvoOR1GpizXiRCj6iuVSvtfwtls+aaV1u1VAoGAJv2p\nDgJ5a2dotvSfn0Q/XKCHsa5HKfdKSHz5zvEJKAYtXCuQcBFUlIJXBt2XIn/04NGb\n7q0rQbaj8S3mCRebYQAyD5FobPrxOJiOvRBMyCx0vqN4M18EzATaCeGQZXdxZCGl\nZrE7fpG6sGyk0mXQIcQQt/Ice/C747AXPFl2dBMCgYEA8V8j2+GijPWCrRWi1qOX\n2uYVVR7N3HEd1HfOyLpKha++FhzcBhgUd8+xnhdULEXrcq4RI6Cw3rSVjaCv/0Ll\nlgk3eh/Z1LFbr9BNA0X2pPw4E885fGEx4SXRA19Yrzq9wcr8LT51T5LJ3ir34QXQ\nZbxkrUCRVrLCMnaQosvjkPQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@bionic-freehold-364616.iam.gserviceaccount.com",
+  "client_id": "103598052551555583875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40bionic-freehold-364616.iam.gserviceaccount.com"
+}
